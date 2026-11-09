@@ -22,3 +22,5 @@ Official static website for Pakistan Developer Hub (PDH).
 - Add confirmed team member profiles and photos only with permission.
 - Add official Instagram and future social links when those accounts exist.
 - Review all links and the site on mobile and desktop.
+
+<!-- Website deployment update -->
